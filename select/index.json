@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Sensation Season",
+  "base_artist": "菅田将暉",
+  "createdAt": "2026-02-14T00:23:55.875835Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sensation Season",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_01_Sensation_Season_菅田将暉.txt"
+    }
+  ]
+}
